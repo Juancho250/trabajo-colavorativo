@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+.principal{
+    background-color: #F0CBA8;
+    width: 100%;
+    height: 205vh;
+}
+
+
+
+.portada2{
+    width: 100%;
+    height: 80vh;
+}
+
+.carrucelpad{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    margin-block-start: 10px;
+}
+
+.carrusel{
+    width: 24%;
+}
+
+.parimg{
+    margin-block-start: 15px;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.parrafo1{
+    width: 30%;
+    margin-inline-start: 20px;
+}
+
+.parrafo2{
+    width: 60%;
+    height: 40vh;
+    font-size: x-large;
+    margin-inline-end: 40px;
+}
+
+.footer{
+    margin-block-start: 20px;
+    width: 100%;
+    height: 1vh ;   
+    display: flex;
+}
+
+.Materiales{
+    width: 50%;
+    height: 10vh; 
+    font-size: x-large;
+}
+
+.botones{
+    width: 50%;
+    height: 10vh;
+    position: relative;
+    flex-flow: column;
+    display: flex;
+}
+
+.gaar{
+    width: 20%;
+    border-radius: 15px;
+    margin-block-end: 3%;
+    height: 4vh;
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
+
+.atras{
+    width: 20%;
+    border-radius: 15px;
+    height: 4vh;
+    position: relative;
+    left: 570px;
+}

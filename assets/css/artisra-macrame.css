@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo-artista{
+   
+}
+.fotoart{
+    width: 50%;
+    height: 40%;
+    display: flex;
+}

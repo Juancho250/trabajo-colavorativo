@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+}
+
+main{
+    background-color: #F0CBA8;
+    width: 100%;
+    height: 200vh;
+}
+
+.lateral{
+    height: 200vh;
+    width: 15%;
+}
+
+
+
+.portada{
+    width: 980px;
+    height: 300px;
+    position: relative;
+    bottom: 1060px; 
+    left: 180px; 
+    border-radius: 15px;
+}
+
+section{
+    width: 40%;
+    height: 150vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    justify-content: space-around;
+    position: relative;
+    bottom: 150vh;
+    left: 38vh;
+}
+
+.imagenes{
+    width: 40%;
+    height: 40vh;
+
+}
+
+header{
+    width: 100vh;
+    height:30vh;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    align-items: center;
+    position: relative;
+    bottom: 245vh; 
+    left: 120vh; 
+
+}
+
+.botones{
+    width:75%;
+    height:30vh ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.boton{
+    width: 35vh;
+    height: 6vh;
+    border-radius: 20px;
+    margin-inline-end: 30px;
+}
+
+.producto{
+    width: 35vh;
+    height: 6vh;
+    border-radius: 20px;
+    position: relative;
+    top: 10vh;
+    right: 40vh;    
+}
+
+article{
+    width: 60vh;
+    height: 500vh;
+    position: relative;
+    top: 20vh;
+    right: 10vh;
+    font-size: xx-large;
+    font-weight:500; 
+}
