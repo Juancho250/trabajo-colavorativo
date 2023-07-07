@@ -6,6 +6,10 @@
 .carru{
     height: 50px;
 }
+.imagenheader{
+    width: 100%;
+    height: 70vh;
+}
 
 .secciones{
     display: flex;
