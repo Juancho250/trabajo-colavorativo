@@ -1,117 +1,50 @@
-.portada
-{
-    width: 200vh;
-    height: 60px;
+.imagen{
+    width: 100%;
+    height: 50vh;
+}
+
+.carru{
+    height: 50px;
+}
+
+.secciones{
     display: flex;
     justify-content: center;
-    
-
 }
 
-.botonp{
-    margin-inline-start: 25px;
-    margin-block-start: 20px;
-    position: relative;
-    left: 150px;
-    border-radius: 10px;
-    width: 20vh;
-    height: 4vh;
+.logo{
+    margin-inline-end: 30px;
+    width: 20%;
+    height: 10vh;
 }
 
-.botones{
-    position: relative;
-    left: 220px;
-    margin-inline-start: 25px;
-    margin-block-start: 20px;
-    border-radius: 10px;
-    width: 20vh;
-    height: 4vh;
-}
-body
-{
-    font-family:'Courier New', Courier, monospace;
-   margin: 0;
-   background-color: #F0CBA8;
-}
-
-.imgsup{
-    width: 100%;
-}
-
-.imgheader {
-
-    width: 100%;
-    height: 500px;
-}
-
-.logos{
+.caruceles{
     width: 100%;
     display: flex;
-    justify-content: space-between;
-}
-
-.logo1{
-    border-radius: 200px;
-    width: 400px;
-    height: 400px;
-    position: relative;
-    bottom: 100px;
-}
-
-.logo22{
-    border-radius: 20px;
-    height: 300px;
-}
-.galeria {
-    display: flex;
-    width: 100%;
-}
-.tecnicas {
-    width: 100%;
-}
-
-.tecnicas2{
-    width: 100%;
-    display: flex;
-    justify-content: center;
     justify-content: space-around;
-    margin-left: 230px;
 }
 
 .carrucel{
+    width: 20%;
+}
+
+.imgtec{
     width: 100%;
+    height: 45vh;
+}
+
+
+
+.contac {
     display: flex;
-    justify-content: center;
-    justify-content: space-around   ;
-}
-
-.imgcarrucel{
-    width: 400px;
-}
-
-footer{
-    background-color: #F27405;
-    margin-block-start: 10vh;
-}
-
-.footer{
-    display: flex;
-}
-
-.mapa{
-    width:  30%;
-}
-
-.logor{
-    position: relative;
-    left: 790px;
-    top: 230px;
-    width: 60px;
-    height: 60px;
-    margin-inline-start: 20px;
-}
-
-h1{
-    position: relative;
-    right: 230px;
-}
+    position: absolute;
+    flex-flow: column;
+    
+  }
+  
+  .contactanos {
+    
+    left: 0;
+    top: 0;
+  }
+  

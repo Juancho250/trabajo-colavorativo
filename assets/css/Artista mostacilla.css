@@ -41,18 +41,7 @@
     .parrafo pre{
         margin-right: 100px;
     }
-/* footer{
-    width: 80%;
-    height: 10vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-content: space-between;
-    justify-content: space-around;
-    margin-left: 60px;
-    border: solid 3px green;
 
-} */
 
 footer{
     margin-block-start: 15px;

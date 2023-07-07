@@ -3,7 +3,6 @@ body{
 }
 
 .main{
-    background-color: #F0CBA8;
     width: 100%;
     height: 100%;
 }
@@ -50,7 +49,7 @@ a{
 
 footer{
     margin-block-start: 45px;
-    background-color: #F27405;
+
     height: 13vh;
     display: flex;
 
