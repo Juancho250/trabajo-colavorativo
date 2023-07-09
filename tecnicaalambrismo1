@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/css/tecnica-alambrismo.css">
+    <title>tecnica-alambrismo</title>
+</head>
+<body>
+    <main class="principal">
+
+        <nav class="gaar">
+        <button><a href="">Galeria</a></button>
+        <button><a href="">Artista</a></button>
+      </nav>
+
+        <section class="portada2">
+            <img class="portada2" src="./assets/img/logo-alambrismo.jpg" alt="">
+        </section>
+
+        <section class="carrucelpad">
+            <img class="carrucel" src="./assets/img/Alambrismo5.jpg" alt="">
+            <img class="carrucel" src="./assets/img/Alambrismo6.jpg" alt="">
+            <img class="carrucel" src="./assets/img/Alambrismo7.jpg" alt="">
+            <img class="carrucel" src="./assets/img/Alambrismo8.jpg" alt="">
+        </section>
+
+        <section class="parimg">
+            <img class="parrafo1" src="./assets/img/Alambrismo10.jpg" alt="">
+            <p class="parrafo2">
+                La mostacilla cheka, como se conoce actualmente. es el resultado de la vision ancestral de nuestros pueblos indigenas y el fuerte lazo de conocimiento y respeto hacia lo divino en diferentes puntos del mundo.
+
+                Se deriva de los chamanes hichol, quien por medio de la ingesta del peyote
+                (HIKURI) le atribuyen la llave, al lumbrar de lo mistico y la sabiduria divina.
+                
+                Nuestros emberas de las tribus: ( KATIO,CHAMI y DOBIDA) comparten esta misma tecnica ansestrales, donde por medio de simbologias, dan el mensaje de nuestra madre tierra.
+            </p>
+        </section>
+
+        <section class="footer">
+            <p class="Materiales">
+                Este Trabajo de Grado tiene su origen, inicialmente, en el sentir individual y personal de la
+                necesidad de conectar los distintos modos de hacer adquiridos a lo largo de mi proceso de
+                formación empírica y académica, que han ido creando puentes entre el tejido de artesanías, las
+                artes visuales y la pedagogía, que como mencioné antes, estos tres campos de creación se han
+                conjugado con mi experiencia de vida permitiéndome crear y hacer parte de procesos donde he
+                podido aportar conocimientos en beneficio de otras personas.
+            </p>
+            <nav class="botones">
+                <button class="atras" > <a href=""> Atras</a></button>
+            </nav>
+        </section>
+
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script> 
+</body>
+</html> 
+

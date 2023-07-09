@@ -6,6 +6,11 @@ body{
     width: 100%;
     height: 100%;
 }
+.logoalambrismo{
+    width: 600px;
+    display: flex;
+    left: 200px;
+}
 
 .superior{
     width: 100%;
