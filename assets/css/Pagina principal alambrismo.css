@@ -7,9 +7,17 @@ body{
     height: 100%;
 }
 .logoalambrismo{
-    width: 600px;
+    
+    width: 90%;
+    height: 50vh;
+    margin-block-end: 20px ;
+    border-radius: 50px;
+}
+
+.logoalambrismo2{
+    width: 100%;
     display: flex;
-    left: 200px;
+    justify-content: center;
 }
 
 .superior{
